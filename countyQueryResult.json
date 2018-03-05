@@ -1,0 +1,347 @@
+{
+  "objectIdFieldName" : "OBJECTID_12_13",
+  "globalIdFieldName" : "",
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  }, 
+  "fields" : [
+    {
+      "name" : "Plant_County",
+      "type" : "esriFieldTypeString",
+      "alias" : "Plant County",
+      "sqlType" : "sqlTypeOther",
+      "length" : 100,
+      "domain" : null,
+      "defaultValue" : null
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "Plant_County" : "Shasta"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Sutter"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Benito"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Mexicali"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Sacramento"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Madera"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Millard"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Contra Costa"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Alameda"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Los Angeles"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Santa Clara"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Santa Cruz"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Humboldt"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Ventura"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Luis Obispo"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Solano"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Beaver"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Napa"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Diego"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Kern"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "El Dorado"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : null
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Amador"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Marin"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Kings"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Mendocino"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Santa Barbara"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Clark"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Mohave"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Tecate"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Monterey"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Joaquin"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Sierra"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Lake"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Trinity"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Lassen"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Tulare"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Stanislaus"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Mateo"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Yuma"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Tehama"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Maricopa"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Tuolumne"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Fresno"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Churchill"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Placer"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Yolo"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Colusa"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Merced"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Mariposa"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Yuba"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Francisco"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Butte"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Plumas"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Inyo"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Nevada"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Sonoma"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Riverside"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Imperial"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Siskiyou"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "San Bernardino"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Glenn"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Mono"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Orange"
+      }
+    },
+    {
+      "attributes" : {
+        "Plant_County" : "Calaveras"
+      }
+    }
+  ]
+}

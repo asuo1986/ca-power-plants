@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Mapping California Power Plants</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js'></script>
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.js'></script>
+    <script src='lib/jquery-ui.min.js'></script>
+    <link rel='stylesheet' href='lib/jquery-ui.min.css'>
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.1/mapbox-gl.css' rel='stylesheet' />
+    <!-- bootstrap -->
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js' integrity='sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q' crossorigin='anonymous'></script>
+    <script src='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js' integrity='sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl' crossorigin='anonymous'></script>
+    <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css' integrity='sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm' crossorigin='anonymous'>
+    <!-- my style sheet -->
+    <link rel='stylesheet' href='css/pretty-checkbox.min.css'>
+    <link rel='stylesheet' href='css/powerplants.css'>
+
+</head>
+<body>
+    <div class='menu'>
+      <div class='my-accordion'>
+        <img class='my-icon' src='icons/layers.png'></img>
+        <span class='sectionName'>Layers</span>
+      </div>
+      <div class='my-panel'>
+        <div class='panelContent'>
+          <div class='layerWrapper'>
+            <div class='pretty p-default'>
+              <input type='checkbox' class='layerCheckbox' name='powerplants' checked>
+              <div class='state p-primary'>
+                <label>California Power Plants</label>
+              </div>
+            </div>
+            <div class='legend' name='powerplants' id='powerplantsLegend'>
+            </div>
+          </div>
+          <!-- <div class='layerWrapper'>
+            <div class='pretty p-default'>
+              <input type='checkbox' class='layerCheckbox' name='renewable'>
+              <div class='state p-primary'>
+                <label>Renewable & Nonrenewable</label>
+              </div>
+            </div>
+          </div> -->
+        </div>
+      </div>
+      <div class='my-accordion'>
+        <img class='my-icon' src='icons/magnifying-glass.png'></img>
+        <span class='sectionName'>Search</span>
+      </div>
+      <div class='my-panel' id='dataPanel'>
+        <div id='searchContainer'>
+          <!-- nav tabs -->
+          <ul class='nav nav-tabs' role='tablist'>
+            <li class='nav-item'>
+              <a class='nav-link active' data-toggle='tab' href='#searchByLocation' role='tab' aria-controls='home' aria-selected='true'>Location</a>
+            </li>
+            <li class='nav-item'>
+              <a class='nav-link' data-toggle='tab' href='#searchByAttributes' role='tab' aria-controls='home' aria-selected='false'>Attributes</a>
+            </li>
+          </ul>
+          <!-- tab content -->
+          <div class='tab-content'>
+            <div id='searchByLocation' class='my-search-tab tab-pane fade show active' role='tabpanel' aria-labelledby='location-tab'>
+              <p>Search by location</p>
+              <div class='input-group mb-3'>
+                <div class='input-group-prepend'>
+                  <label class='input-group-text' for='countySelect' data-live-search='true'>County</label>
+                </div>
+                <select class='custom-select' id='countySelect'>
+                  <option selected>Choose</option>
+                </select>
+              </div>
+              <div class='input-group mb-3'>
+                <div class='input-group-prepend'>
+                  <label class='input-group-text' for='zipcodeInput'>Zipcode</label>
+                </div>
+                <input type='text' class='form-control'  id='zipcodeInput' placeholder='Enter zipcode'>
+              </div>
+            </div>
+            <div id='searchByAttributes' class='my-search-tab tab-pane fade' role='tabpanel' aria-labelledby='attribute-tab'>
+              <p>Search by attributes</p>
+              <div class='input-group mb-3'>
+                <div class='input-group-prepend'>
+                  <label class='input-group-text' for='generalFuelSelect'>General Fuel</label>
+                </div>
+                <select class='custom-select' id='generalFuelSelect'>
+                  <option selected>Choose</option>
+                </select>
+              </div>
+              <div class='input-group mb-3'>
+                <div class='pretty p-switch p-fill' style='padding-top:5px'>
+                  <input type='checkbox' id='operatingSwitch'>
+                  <div class='state'>
+                    <label>Operating Status</label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div id='searchContainerFooter'>
+          <button type='button' class='btn btn-primary' id='clearSearchBtn'>Clear Search</button>
+        </div>
+      </div>
+
+      <!-- data source -->
+      <div class='my-accordion' id='storyButton'>
+        <img class='my-icon' src='icons/link.png'></img>
+        <span class='sectionName'>Data Source</span>
+      </div>
+      <div class='my-panel' id='storyPanel'>
+        <div id='sourceContainer'>
+          <a target='_blank' href='https://cecgis-caenergy.opendata.arcgis.com'>California Engergy Commission - GIS Open Data</a>
+        </div>
+      </div>
+    </div>
+    <div id='map'>
+        <div class='box' id='infoBox'>Click the power plants to see more details</div>
+        <div class='box' id='legendBox'>Legend</div>
+    </div>
+    <script src='powerplants.js'></script>
+</body>
+</html>

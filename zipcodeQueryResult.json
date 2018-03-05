@@ -1,0 +1,3212 @@
+{
+  "objectIdFieldName" : "OBJECTID_12_13",
+  "globalIdFieldName" : "",
+  "geometryType" : "esriGeometryPoint",
+  "spatialReference" : {
+    "wkid" : 102100,
+    "latestWkid" : 3857
+  },
+  "fields" : [
+    {
+      "name" : "Zip_Code",
+      "type" : "esriFieldTypeString",
+      "alias" : "Zip Code",
+      "sqlType" : "sqlTypeOther",
+      "length" : 10,
+      "domain" : null,
+      "defaultValue" : null
+    }
+  ],
+  "features" : [
+    {
+      "attributes" : {
+        "Zip_Code" : null
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "21511"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "21610"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "78724"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "83608"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "84624"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "84751"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "85322"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "85333"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "89005"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "89011"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "89029"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "89406"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90012"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90013"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90023"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90027"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90036"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90040"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90041"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90045"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90049"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90058"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90073"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90077"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90095"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90210"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90230"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90245"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90247"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90248"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90277"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90280"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90293"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90401"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90404"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90501"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90509"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90601"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90602"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90631"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90638"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90639"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90650"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90660"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90670"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90680"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90701"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90704"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90731"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90744"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90745"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90746"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90748"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90749"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90802"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90803"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "90813"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91105"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91109"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91125"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91201"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91301"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91310"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91311"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91321"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91342"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91343"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91350"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91352"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91367"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91371"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91384"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91403"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91502"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91605"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91702"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91708"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91710"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91719"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91720"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "9173"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91730"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91739"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91744"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91745"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91750"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91752"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91754"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91761"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91762"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91767"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91768"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91770"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91773"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91786"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91789"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91792"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91798"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91905"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91910"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91911"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "91934"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92004"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92008"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92009"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92020"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92024"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92025"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92027"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92028"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92029"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92037"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92041"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92042"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92056"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92059"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92064"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92065"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92067"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92069"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92071"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92081"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92082"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92093"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92101"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92108"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92109"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92110"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92111"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92113"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92114"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92121"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92123"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92127"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92128"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92129"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92133"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92135"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92136"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92139"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92154"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92161"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92179"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92182"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92199"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92220"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92225"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92226"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92227"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92230"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92231"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92233"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92234"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92236"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92239"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92240"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92243"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92249"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92250"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92251"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92252"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92254"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92256"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92257"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92258"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92259"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92262"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92267"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92270"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92273"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92277"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92282"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92283"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92301"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92307"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92311"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92315"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92324"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92327"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92335"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92336"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92337"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92342"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92345"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92346"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92347"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92350"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92354"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92356"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92358"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92364"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92368"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92370"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92371"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92374"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92376"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92392"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92394"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92395"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92407"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92408"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92503"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92504"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92505"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92506"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92507"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92508"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92522"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92545"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92551"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92555"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92571"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92576"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92585"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92602"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92606"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92612"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92614"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92621"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92646"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92672"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92675"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92677"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92686"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92692"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92694"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92697"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92704"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92707"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92728"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92802"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92805"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92806"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92821"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92823"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92880"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92881"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "92882"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93001"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93010"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93012"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93030"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93033"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93035"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93040"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93060"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93065"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93106"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93117"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93200"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93201"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93203"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93204"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93206"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93210"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93212"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93215"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93216"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93218"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93221"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93224"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93230"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93233"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93234"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93238"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93239"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93240"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93243"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93244"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93245"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93247"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93249"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93251"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93252"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93256"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93257"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93263"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93265"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93268"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93270"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93271"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93276"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93280"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93283"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93291"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93301"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93302"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93305"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93306"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93307"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93308"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93311"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93312"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93313"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93380"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93401"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93405"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93424"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93426"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93442"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93446"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93450"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93451"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93453"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93454"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93458"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93501"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93513"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93514"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93516"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93518"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93519"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93526"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93529"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93534"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93535"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93536"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93541"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93542"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93545"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93546"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93549"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93550"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93552"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93553"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93555"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93560"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93561"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93562"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93591"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93602"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93603"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93605"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93608"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93610"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93611"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93618"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93620"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93622"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93624"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93626"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93627"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93628"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93629"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93630"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93631"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93635"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93637"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93640"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93643"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93648"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93649"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93654"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93657"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93660"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93664"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93668"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93706"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93710"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93711"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93725"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93727"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93729"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93737"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93901"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93907"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93926"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93928"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93930"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93933"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93940"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93955"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "93960"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94015"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94019"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94022"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94025"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94043"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94085"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94088"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94089"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94105"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94109"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94111"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94117"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94121"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94124"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94128"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94132"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94177"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94303"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94305"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94503"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94509"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94510"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94512"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94514"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94520"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94523"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94525"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94533"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94534"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94538"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94542"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94545"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94550"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94551"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94553"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94558"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94560"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94561"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94565"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94568"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94572"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94578"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94580"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94582"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94583"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94585"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94587"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94588"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94589"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94590"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94599"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94607"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94619"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94720"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94801"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94802"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94901"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94923"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94928"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94945"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "94952"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95002"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95020"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95023"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95037"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95039"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95050"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95051"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95054"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95060"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95064"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95070"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95076"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95110"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95111"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95112"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95116"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95120"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95121"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95131"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95132"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95133"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95134"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95135"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95192"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95201"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95203"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95206"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95222"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95227"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95236"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95240"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95242"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95247"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95251"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95252"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95276"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95301"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95304"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95313"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95317"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95321"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95322"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95323"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95327"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95329"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95330"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95334"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95335"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95336"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95340"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95344"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95347"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95351"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95356"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95357"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95358"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95360"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95361"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95364"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95366"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95369"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95370"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95373"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95376"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95377"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95379"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95380"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95386"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95387"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95388"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95401"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95403"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95407"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95422"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95423"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95425"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95426"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95437"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95441"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95453"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95461"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95469"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95476"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95482"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95495"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95501"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95503"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95525"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95526"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95564"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95565"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95595"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95603"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95604"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95605"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95616"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95620"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95630"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95631"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95632"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95634"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95638"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95640"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95642"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95647"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95648"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95652"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95653"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95655"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95666"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95667"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95677"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95683"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95685"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95687"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95688"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95692"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95693"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95695"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95696"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95701"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95709"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95713"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95714"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95717"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95722"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95725"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95726"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95734"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95747"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95757"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95758"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95765"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95776"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95813"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95814"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95817"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95824"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95826"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95828"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95829"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95834"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95901"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95918"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95919"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95927"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95928"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95930"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95935"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95936"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95939"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95940"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95945"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95953"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95954"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95956"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95958"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95959"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95962"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95963"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95965"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95966"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95969"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95971"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95980"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95987"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95991"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95992"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "95993"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96001"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96003"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96007"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96009"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96011"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96013"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96016"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96020"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96022"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96028"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96040"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96044"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96046"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96051"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96055"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96056"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96059"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96061"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96062"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96065"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96067"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96080"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96088"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96094"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96096"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96103"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96111"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96118"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96122"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96125"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96130"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96136"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96137"
+      }
+    },
+    {
+      "attributes" : {
+        "Zip_Code" : "96148"
+      }
+    }
+  ]
+}
